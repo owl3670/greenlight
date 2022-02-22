@@ -10,9 +10,10 @@ import (
 	"os"
 	"time"
 
+	"greenlight.alexedwards.net/internal/data"
+
 	"github.com/joho/godotenv"
 	_ "github.com/lib/pq"
-	"greenlight.alexedwards.net/internal/data"
 )
 
 const version = "1.0.0"

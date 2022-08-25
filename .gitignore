@@ -16,3 +16,6 @@
 
 # Docker postgreSQL data
 *.postgre-data
+
+# IDE
+.idea
